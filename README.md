@@ -1,1 +1,5 @@
-# informatica
+# Informatica
+
+## Bisezione
+
+## Python
